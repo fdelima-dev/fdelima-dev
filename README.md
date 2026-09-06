@@ -64,6 +64,37 @@ PHP • Rust
     OpenCV
 
 
-📈 GitHub
+📊 Ciência de Dados
+
+<p align="left"> <img src="https://skillicons.dev/icons?i=python" height="45" alt="Python" /> <img src="https://skillicons.dev/icons?i=r" height="45" alt="R" /> <img src="https://skillicons.dev/icons?i=mysql" height="45" alt="MySQL" /> <img src="https://skillicons.dev/icons?i=postgres" height="45" alt="PostgreSQL" /> <img src="https://skillicons.dev/icons?i=mongodb" height="45" alt="MongoDB" /> </p>
+
+📈 Análise & Visualização
+
+Pandas
+NumPy
+Matplotlib
+Seaborn
+Plotly
+Power BI
+
+🧠 Machine Learning
+
+Scikit-learn
+TensorFlow
+PyTorch
+Modelagem Preditiva
+Classificação
+Regressão
+Clusterização
+
+🗄️ Dados
+
+SQL
+ETL / ELT
+Limpeza e Tratamento de Dados
+Análise Exploratória de Dados (EDA)
+Banco de Dados
+Data Visualization
+
 <!-- <p align="center"> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=fdelima-dev&theme=tokyonight&hide_border=true" /> </p>-->
 🚧 Sempre construindo, aprendendo e evoluindo.
