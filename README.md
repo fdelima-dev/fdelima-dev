@@ -20,6 +20,7 @@ Mobile
 
 
 
+
 🎨 Design Gráfico, UI & UX
 🎯 Fundamentos
 
