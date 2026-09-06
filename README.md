@@ -13,8 +13,24 @@ Desenvolvedor apaixonado por tecnologia, construção de aplicações e aprendiz
 <p align="left"> <img src="https://skillicons.dev/icons?i=python" height="45" alt="Python" /> <img src="https://skillicons.dev/icons?i=java" height="45" alt="Java" /> <img src="https://skillicons.dev/icons?i=cs" height="45" alt="C#" /> <img src="https://skillicons.dev/icons?i=c" height="45" alt="C" /> <img src="https://skillicons.dev/icons?i=cpp" height="45" alt="C++" /> <img src="https://skillicons.dev/icons?i=rust" height="45" alt="Rust" /> <img src="https://skillicons.dev/icons?i=php" height="45" alt="PHP" /> </p>
 
 🎨 Design Gráfico, UI & UX
-<p align="left"> <img src="https://skillicons.dev/icons?i=figma" height="45" alt="Figma" /> <img src="https://skillicons.dev/icons?i=gimp" height="45" alt="GIMP" /> <img src="https://skillicons.dev/icons?i=inkscape" height="45" alt="Inkscape" /> <img src="https://skillicons.dev/icons?i=ps" height="45" alt="Photoshop" /> </p> 
-🛠️ Stack
+🎯 Fundamentos
+
+    🅰️ Tipografia
+    🎨 Teoria das Cores
+    📐 Composição e Hierarquia Visual
+    🖥️ UI Design
+    🧠 UX Design
+    📱 Design Responsivo
+    🔄 Wireframes e Prototipagem
+    ♿ Acessibilidade e Usabilidade
+
+🛠️ Ferramentas
+
+    🎨 Lunacy
+    🖌️ GIMP
+    ✒️ Inkscape
+    🎨 Figma
+
 HTML5 • CSS3 • SASS • Bootstrap • Tailwind
 JavaScript • TypeScript
 React • Angular • Svelte • Vue.js
