@@ -12,7 +12,7 @@ Desenvolvedor apaixonado por tecnologia, construção de aplicações e aprendiz
 💻 Linguagens
 <p align="left"> <img src="https://skillicons.dev/icons?i=python" height="45" alt="Python" /> <img src="https://skillicons.dev/icons?i=java" height="45" alt="Java" /> <img src="https://skillicons.dev/icons?i=cs" height="45" alt="C#" /> <img src="https://skillicons.dev/icons?i=c" height="45" alt="C" /> <img src="https://skillicons.dev/icons?i=cpp" height="45" alt="C++" /> <img src="https://skillicons.dev/icons?i=rust" height="45" alt="Rust" /> <img src="https://skillicons.dev/icons?i=php" height="45" alt="PHP" /> </p>
 🛠️ Stack
-HTML5 • CSS3 • SASS • Tailwind
+HTML5 • CSS3 • SASS • Bootstrap • Tailwind
 JavaScript • TypeScript
 React • Angular • Svelte • Vue.js
 Python • Django
