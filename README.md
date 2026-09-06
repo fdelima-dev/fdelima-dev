@@ -21,5 +21,5 @@ C# • C • C++
 PHP • Rust
 
 📈 GitHub
-<p align="center"> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=fdelima-dev&theme=tokyonight&hide_border=true" /> </p>
+/*<p align="center"> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=fdelima-dev&theme=tokyonight&hide_border=true" /> </p>*/
 🚧 Sempre construindo, aprendendo e evoluindo.
