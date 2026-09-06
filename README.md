@@ -39,6 +39,31 @@ Java • Spring
 C# • C • C++
 PHP • Rust
 
+🤖 Inteligência Artificial
+<p align="left"> <img src="https://skillicons.dev/icons?i=python" height="45" alt="Python" /> <img src="https://skillicons.dev/icons?i=tensorflow" height="45" alt="TensorFlow" /> <img src="https://skillicons.dev/icons?i=pytorch" height="45" alt="PyTorch" /> <img src="https://skillicons.dev/icons?i=opencv" height="45" alt="OpenCV" /> </p>
+
+🧠 Conceitos
+
+    Machine Learning
+    Deep Learning
+    Inteligência Artificial Generativa
+    Processamento de Linguagem Natural (NLP)
+    Visão Computacional
+    LLMs
+    Engenharia de Prompts
+
+🛠️ Ferramentas & Tecnologias
+
+    ChatGPT
+    Gemini
+    Claude
+    Hugging Face
+    LangChain
+    TensorFlow
+    PyTorch
+    OpenCV
+
+
 📈 GitHub
 <!-- <p align="center"> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=fdelima-dev&theme=tokyonight&hide_border=true" /> </p>-->
 🚧 Sempre construindo, aprendendo e evoluindo.
