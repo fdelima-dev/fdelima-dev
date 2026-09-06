@@ -1,4 +1,4 @@
-👋 Olá, eu sou fdelima-dev!
+👋 Olá, eu sou Felipe Lima Developer!
 🏗️ Engenheiro Full-Stack
 
 Desenvolvedor apaixonado por tecnologia, construção de aplicações e aprendizado contínuo.
