@@ -10,9 +10,7 @@ Desenvolvedor apaixonado por tecnologia, construção de aplicações e aprendiz
 ⚙️ Back-End
 <p align="left"> <img src="https://skillicons.dev/icons?i=python" height="45" alt="Python" /> <img src="https://skillicons.dev/icons?i=django" height="45" alt="Django" />  </p>
 💻 Linguagens
-<p align="left"> <img src="https://skillicons.dev/icons?i=python" height="45" alt="Python" /> <img src="https://skillicons.dev/icons?i=java" height="45" alt="Java" /> <img src="https://skillicons.dev/icons?i=cs" height="45" alt="C#" /> <img src="https://skillicons.dev/icons?i=c" height="45" alt="C" /> <img src="https://skillicons.dev/icons?i=cpp" height="45" alt="C++" /> <img src="https://skillicons.dev/icons?i=rust" height="45" alt="Rust" /> <img src="https://skillicons.dev/icons?i=php" height="45" alt="PHP" /> </p>
-Mobile
-<img src="https://skillicons.dev/icons?i=kotlin" height="45" alt="Kotlin" /> <img src="https://cdn.simpleicons.org/ionic/3880FF" height="45" alt="Ionic" /> <img src="https://skillicons.dev/icons?i=flutter" height="45" alt="Flutter" />
+<p align="left"> <img src="https://skillicons.dev/icons?i=python" height="45" alt="Python" /> </p>
 
 
 
