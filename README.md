@@ -11,10 +11,10 @@ Desenvolvedor apaixonado por tecnologia, construção de aplicações e aprendiz
 <img src="https://skillicons.dev/icons?i=tailwind" height="45" alt="Tailwind CSS" /> <img src="https://skillicons.dev/icons?i=js" height="45" alt="JavaScript" /> <img src="https://skillicons.dev/icons?i=ts" height="45" alt="TypeScript" /> <img src="https://skillicons.dev/icons?i=react" height="45" alt="React" /> <img src="https://skillicons.dev/icons?i=angular" height="45" alt="Angular" /> <img src="https://skillicons.dev/icons?i=vue" height="45" alt="Vue.js" /> <img src="https://skillicons.dev/icons?i=svelte" height="45" alt="Svelte" />  </p>
 ⚙️ Back-End
 <p align="left"> <img src="https://skillicons.dev/icons?i=python" height="45" alt="Python" /> <img src="https://skillicons.dev/icons?i=django" height="45" alt="Django" /> <img src="https://skillicons.dev/icons?i=c" height="45" alt="C" /> <img src="https://skillicons.dev/icons?i=cpp" height="45" alt="C++" /> <img src="https://skillicons.dev/icons?i=java" height="45" alt="Java" /> <img src="https://skillicons.dev/icons?i=spring" height="45" alt="Spring Boot" /> <img src="https://skillicons.dev/icons?i=cs" height="45" alt="C#" /> <img src="https://skillicons.dev/icons?i=dotnet" height="45" alt="ASP.NET" /> <img src="https://skillicons.dev/icons?i=php" height="45" alt="PHP" /> <img src="https://skillicons.dev/icons?i=laravel" height="45" alt="Laravel" /><img src="https://skillicons.dev/icons?i=nodejs" height="45" alt="Node.js" />
-<img src="https://skillicons.dev/icons?i=go" height="45" alt="Go" /> </p>
+<img src="https://skillicons.dev/icons?i=go" height="45" alt="Go" /><img src="https://skillicons.dev/icons?i=rust" height="45" alt="Rust" /> </p>
 💻 Linguagens
 <p align="left"> <img src="https://skillicons.dev/icons?i=python" height="45" alt="Python" /><img src="https://skillicons.dev/icons?i=c" height="45" alt="C" /> <img src="https://skillicons.dev/icons?i=cpp" height="45" alt="C++" /> <img src="https://skillicons.dev/icons?i=java" height="45" alt="Java" /><img src="https://skillicons.dev/icons?i=cs" height="45" alt="C#" /> <img src="https://skillicons.dev/icons?i=php" height="45" alt="PHP" />
-<img src="https://skillicons.dev/icons?i=go" height="45" alt="Go" /></p>
+<img src="https://skillicons.dev/icons?i=go" height="45" alt="Go" /><img src="https://skillicons.dev/icons?i=rust" height="45" alt="Rust" /></p>
 📱 Mobile
 <p align="left"> <img src="https://skillicons.dev/icons?i=kotlin" height="45" alt="Kotlin" /><img src="https://skillicons.dev/icons?i=flutter" height="45" alt="Flutter" /></p>
 
