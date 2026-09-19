@@ -12,8 +12,8 @@ Desenvolvedor apaixonado por tecnologia, construção de aplicações e aprendiz
 ⚙️ Back-End
 <p align="left"> <img src="https://skillicons.dev/icons?i=python" height="45" alt="Python" /> <img src="https://skillicons.dev/icons?i=django" height="45" alt="Django" /> <img src="https://skillicons.dev/icons?i=c" height="45" alt="C" /> <img src="https://skillicons.dev/icons?i=cpp" height="45" alt="C++" /> <img src="https://skillicons.dev/icons?i=java" height="45" alt="Java" /> <img src="https://skillicons.dev/icons?i=spring" height="45" alt="Spring Boot" /> <img src="https://skillicons.dev/icons?i=cs" height="45" alt="C#" /> <img src="https://skillicons.dev/icons?i=dotnet" height="45" alt="ASP.NET" /><img src="https://skillicons.dev/icons?i=php" height="45" alt="PHP" /></p>
 💻 Linguagens
-<p align="left"> <img src="https://skillicons.dev/icons?i=python" height="45" alt="Python" /><img src="https://skillicons.dev/icons?i=c" height="45" alt="C" /> <img src="https://skillicons.dev/icons?i=cpp" height="45" alt="C++" /> <img src="https://skillicons.dev/icons?i=java" height="45" alt="Java" /><img src="https://skillicons.dev/icons?i=cs" height="45" alt="C#" /><img src="https://skillicons.dev/icons?i=php" height="45" alt="PHP" /> </p>
-📱 Mobile
+<p align="left"> <img src="https://skillicons.dev/icons?i=python" height="45" alt="Python" /><img src="https://skillicons.dev/icons?i=c" height="45" alt="C" /> <img src="https://skillicons.dev/icons?i=cpp" height="45" alt="C++" /> <img src="https://skillicons.dev/icons?i=java" height="45" alt="Java" /><img src="https://skillicons.dev/icons?i=cs" height="45" alt="C#" /> <img src="https://skillicons.dev/icons?i=php" height="45" alt="PHP" /> <img src="https://skillicons.dev/icons?i=laravel" height="45" alt="Laravel" /></p>
+📱 Mobile<
 <p align="left"> <img src="https://skillicons.dev/icons?i=kotlin" height="45" alt="Kotlin" /><img src="https://skillicons.dev/icons?i=flutter" height="45" alt="Flutter" /></p>
 
 
