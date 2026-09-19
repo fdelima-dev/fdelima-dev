@@ -12,7 +12,7 @@ Desenvolvedor apaixonado por tecnologia, construção de aplicações e aprendiz
 ⚙️ Back-End
 <p align="left"> <img src="https://skillicons.dev/icons?i=python" height="45" alt="Python" /> <img src="https://skillicons.dev/icons?i=django" height="45" alt="Django" /> <img src="https://skillicons.dev/icons?i=c" height="45" alt="C" /> <img src="https://skillicons.dev/icons?i=cpp" height="45" alt="C++" /> <img src="https://skillicons.dev/icons?i=java" height="45" alt="Java" /> <img src="https://skillicons.dev/icons?i=spring" height="45" alt="Spring Boot" /></p>
 💻 Linguagens
-<p align="left"> <img src="https://skillicons.dev/icons?i=python" height="45" alt="Python" /> </p>
+<p align="left"> <img src="https://skillicons.dev/icons?i=python" height="45" alt="Python" /><img src="https://skillicons.dev/icons?i=c" height="45" alt="C" /> <img src="https://skillicons.dev/icons?i=cpp" height="45" alt="C++" /> <img src="https://skillicons.dev/icons?i=java" height="45" alt="Java" /> </p>
 
 
 
