@@ -18,6 +18,9 @@ Desenvolvedor apaixonado por tecnologia, construção de aplicações e aprendiz
 📱 Mobile
 <p align="left"> <img src="https://skillicons.dev/icons?i=kotlin" height="45" alt="Kotlin" /><img src="https://skillicons.dev/icons?i=flutter" height="45" alt="Flutter" /></p>
 
+💾 Banco de dados
+<p align="left"><img src="https://skillicons.dev/icons?i=sqlite" height="45" alt="SQLite" /><img src="https://skillicons.dev/icons?i=postgres" height="45" alt="PostgreSQL" /><img src="https://skillicons.dev/icons?i=mysql" height="45" alt="MySQL" /><img src="https://skillicons.dev/icons?i=mongodb" height="45" alt="MongoDB" /></p>
+
 
 
 
