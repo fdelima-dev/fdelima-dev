@@ -14,7 +14,7 @@ Desenvolvedor apaixonado por tecnologia, construção de aplicações e aprendiz
 💻 Linguagens
 <p align="left"> <img src="https://skillicons.dev/icons?i=python" height="45" alt="Python" /><img src="https://skillicons.dev/icons?i=c" height="45" alt="C" /> <img src="https://skillicons.dev/icons?i=cpp" height="45" alt="C++" /> <img src="https://skillicons.dev/icons?i=java" height="45" alt="Java" /></p>
 📱 Mobile
-<p align="left"> <img src="https://skillicons.dev/icons?i=kotlin" height="45" alt="Kotlin" /><img src="https://skillicons.dev/icons?i=flutter" height="45" alt="Flutter" /></p>
+<p align="left"> <img src="https://skillicons.dev/icons?i=kotlin" height="45" alt="Kotlin" /></p>
 
 💾 Banco de dados
 <p align="left"><img src="https://skillicons.dev/icons?i=sqlite" height="45" alt="SQLite" /><img src="https://skillicons.dev/icons?i=postgres" height="45" alt="PostgreSQL" /><img src="https://skillicons.dev/icons?i=mysql" height="45" alt="MySQL" /><img src="https://skillicons.dev/icons?i=mongodb" height="45" alt="MongoDB" /></p>
