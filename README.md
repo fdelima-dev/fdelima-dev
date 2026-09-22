@@ -20,7 +20,7 @@ Desenvolvedor apaixonado por tecnologia, construção de aplicações e aprendiz
 <p align="left"><img src="https://skillicons.dev/icons?i=sqlite" height="45" alt="SQLite" /><img src="https://skillicons.dev/icons?i=postgres" height="45" alt="PostgreSQL" /><img src="https://skillicons.dev/icons?i=mysql" height="45" alt="MySQL" /><img src="https://skillicons.dev/icons?i=mongodb" height="45" alt="MongoDB" /></p>
 
 🐧 Sistema operacional
-<img src="https://skillicons.dev/icons?i=linux" height="45" alt="Linux" />
+<p align="left"><img src="https://skillicons.dev/icons?i=linux" height="45" alt="Linux" /></p>
 
 
 
