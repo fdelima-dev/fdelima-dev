@@ -13,6 +13,9 @@ Desenvolvedor apaixonado por tecnologia, construção de aplicações e aprendiz
 <p align="left"> <img src="https://skillicons.dev/icons?i=python" height="45" alt="Python" /> <img src="https://skillicons.dev/icons?i=django" height="45" alt="Django" /> <img src="https://skillicons.dev/icons?i=php" /> <img src="https://skillicons.dev/icons?i=laravel" /> <img src="https://skillicons.dev/icons?i=nodejs" height="45" alt="Node.js" /> <img src="https://skillicons.dev/icons?i=java" /> <img src="https://skillicons.dev/icons?i=spring" /></p>
 💻 Linguagens
 <p align="left"> <img src="https://skillicons.dev/icons?i=python" height="45" alt="Python" /> <img src="https://skillicons.dev/icons?i=js" height="45" alt="JavaScript" /> <img src="https://skillicons.dev/icons?i=php" /> <img src="https://skillicons.dev/icons?i=java" /> </p>
+📱 Mobile
+<p align="left"> 
+<img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin"></p>
 
 
 💾 Banco de dados
