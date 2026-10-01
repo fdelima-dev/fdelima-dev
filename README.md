@@ -16,7 +16,7 @@ Desenvolvedor apaixonado por tecnologia, construção de aplicações e aprendiz
 <p align="left"> <img src="https://skillicons.dev/icons?i=python" height="45" alt="Python" /> <img src="https://skillicons.dev/icons?i=js" height="45" alt="JavaScript" /> <img src="https://skillicons.dev/icons?i=ts" height="45" alt="TypeScript" />  <img src="https://skillicons.dev/icons?i=php" /> <img src="https://skillicons.dev/icons?i=java" height="45" alt="Java" /> <img src="https://skillicons.dev/icons?i=spring" height="45" alt="Spring" /></p>
 
 📱 Mobile
-    <p align="left"><img src="https://skillicons.dev/icons?i=kotlin" height="45" alt="Kotlin" /></p>
+<p align="left"><img src="https://skillicons.dev/icons?i=kotlin" height="45" alt="Kotlin" /></p>
 
 
 
