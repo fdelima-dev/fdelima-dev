@@ -10,13 +10,17 @@ Desenvolvedor apaixonado por tecnologia, construção de aplicações e aprendiz
 <p align="left"> <img src="https://skillicons.dev/icons?i=html" height="45" alt="HTML5" /> <img src="https://skillicons.dev/icons?i=css" height="45" alt="CSS3" /> <img src="https://skillicons.dev/icons?i=sass" height="45" alt="SASS" /> <img src="https://skillicons.dev/icons?i=bootstrap" height="45" alt="Bootstrap" />
 <img src="https://skillicons.dev/icons?i=tailwind" height="45" alt="Tailwind CSS" /> <img src="https://skillicons.dev/icons?i=js" height="45" alt="JavaScript" /> <img src="https://skillicons.dev/icons?i=ts" height="45" alt="TypeScript" /> <img src="https://skillicons.dev/icons?i=react" height="45" alt="React" /> <img src="https://skillicons.dev/icons?i=vue" height="45" alt="Vue.js" /> <img src="https://skillicons.dev/icons?i=angular" height="45" alt="Angular" />  <img src="https://skillicons.dev/icons?i=svelte" height="45" alt="Svelte" /> </p>
 ⚙️ Back-End
-<p align="left"> <img src="https://skillicons.dev/icons?i=python" height="45" alt="Python" /> <img src="https://skillicons.dev/icons?i=django" height="45" alt="Django" /> <img src="https://skillicons.dev/icons?i=php" /> <img src="https://skillicons.dev/icons?i=laravel" /> <img src="https://skillicons.dev/icons?i=nodejs" height="45" alt="Node.js" /> <img src="https://skillicons.dev/icons?i=java" height="45" alt="Java" /> 
+<p align="left"> <img src="https://skillicons.dev/icons?i=python" height="45" alt="Python" /> <img src="https://skillicons.dev/icons?i=django" height="45" alt="Django" /> <img src="https://skillicons.dev/icons?i=php" /> <img src="https://skillicons.dev/icons?i=laravel" /> <img src="https://skillicons.dev/icons?i=nodejs" height="45" alt="Node.js" /> <img src="https://skillicons.dev/icons?i=java" height="45" alt="Java" /> <img src="https://skillicons.dev/icons?i=c" height="45" alt="C" />
+<img src="https://skillicons.dev/icons?i=cpp" height="45" alt="C++" />
+<img src="https://skillicons.dev/icons?i=cs" height="45" alt="C#" />
 </p>
 💻 Linguagens
-<p align="left"> <img src="https://skillicons.dev/icons?i=python" height="45" alt="Python" /> <img src="https://skillicons.dev/icons?i=js" height="45" alt="JavaScript" /> <img src="https://skillicons.dev/icons?i=ts" height="45" alt="TypeScript" />  <img src="https://skillicons.dev/icons?i=php" /> <img src="https://skillicons.dev/icons?i=java" height="45" alt="Java" /> <img src="https://skillicons.dev/icons?i=spring" height="45" alt="Spring" /></p>
+<p align="left"> <img src="https://skillicons.dev/icons?i=python" height="45" alt="Python" /> <img src="https://skillicons.dev/icons?i=js" height="45" alt="JavaScript" /> <img src="https://skillicons.dev/icons?i=ts" height="45" alt="TypeScript" />  <img src="https://skillicons.dev/icons?i=php" /> <img src="https://skillicons.dev/icons?i=java" height="45" alt="Java" /> <img src="https://skillicons.dev/icons?i=spring" height="45" alt="Spring" />    <img src="https://skillicons.dev/icons?i=c" height="45" alt="C" />
+<img src="https://skillicons.dev/icons?i=cpp" height="45" alt="C++" />
+<img src="https://skillicons.dev/icons?i=cs" height="45" alt="C#" /> </p>
 
 📱 Mobile
-<p align="left"><img src="https://skillicons.dev/icons?i=kotlin" height="45" alt="Kotlin" /></p>
+<p align="left"><img src="https://skillicons.dev/icons?i=kotlin" height="45" alt="Kotlin" /> <img src="https://skillicons.dev/icons?i=flutter" height="45" alt="Flutter" /> </p>
 
 
 
