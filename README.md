@@ -12,7 +12,7 @@ Desenvolvedor apaixonado por tecnologia, construção de aplicações e aprendiz
 ⚙️ Back-End
 <p align="left"> <img src="https://skillicons.dev/icons?i=python" height="45" alt="Python" /> <img src="https://skillicons.dev/icons?i=django" height="45" alt="Django" /> <img src="https://skillicons.dev/icons?i=php" /> <img src="https://skillicons.dev/icons?i=laravel" /> <img src="https://skillicons.dev/icons?i=nodejs" height="45" alt="Node.js" /> <img src="https://skillicons.dev/icons?i=java" height="45" alt="Java" /> <img src="https://skillicons.dev/icons?i=spring" height="45" alt="Spring" />  <img src="https://skillicons.dev/icons?i=c" height="45" alt="C" />
 <img src="https://skillicons.dev/icons?i=cpp" height="45" alt="C++" />
-<img src="https://skillicons.dev/icons?i=cs" height="45" alt="C#" />
+<img src="https://skillicons.dev/icons?i=cs" height="45" alt="C#" /><img src="https://skillicons.dev/icons?i=dotnet" height="45" alt="C#" />
 </p>
 💻 Linguagens
 <p align="left"> <img src="https://skillicons.dev/icons?i=python" height="45" alt="Python" /> <img src="https://skillicons.dev/icons?i=js" height="45" alt="JavaScript" /> <img src="https://skillicons.dev/icons?i=ts" height="45" alt="TypeScript" />  <img src="https://skillicons.dev/icons?i=php" /> <img src="https://skillicons.dev/icons?i=java" height="45" alt="Java" /> <img src="https://skillicons.dev/icons?i=c" height="45" alt="C" />
