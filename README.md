@@ -1,7 +1,7 @@
 👋 Olá, eu sou Felipe Lima Developer!
 🏗️ Engenheiro Full-Stack
 
-https://escolajavascript.com.br
+https://ofelipelima.dev
 
 Desenvolvedor apaixonado por tecnologia, construção de aplicações e aprendizado contínuo.
 
