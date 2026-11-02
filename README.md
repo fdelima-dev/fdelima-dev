@@ -15,9 +15,6 @@ Desenvolvedor apaixonado por tecnologia, construção de aplicações e aprendiz
 💻 Linguagens
 <p align="left"> <img src="https://skillicons.dev/icons?i=python" height="45" alt="Python" /> <img src="https://skillicons.dev/icons?i=js" height="45" alt="JavaScript" /> <img src="https://skillicons.dev/icons?i=ts" height="45" alt="TypeScript" />  <img src="https://skillicons.dev/icons?i=php" />
 
-📱 Mobile
-<p align="left"><img src="https://skillicons.dev/icons?i=kotlin" height="45" alt="Kotlin" />
-
 
 
 💾 Banco de dados
