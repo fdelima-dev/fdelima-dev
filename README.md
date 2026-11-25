@@ -10,8 +10,8 @@ Desenvolvedor apaixonado por tecnologia, construção de aplicações e aprendiz
 <p align="left"> <img src="https://skillicons.dev/icons?i=html" height="45" alt="HTML5" /> <img src="https://skillicons.dev/icons?i=css" height="45" alt="CSS3" /> <img src="https://skillicons.dev/icons?i=sass" height="45" alt="SASS" /> <img src="https://skillicons.dev/icons?i=bootstrap" height="45" alt="Bootstrap" />
 <img src="https://skillicons.dev/icons?i=tailwind" height="45" alt="Tailwind CSS" /> <img src="https://skillicons.dev/icons?i=js" height="45" alt="JavaScript" /> <img src="https://skillicons.dev/icons?i=ts" height="45" alt="TypeScript" /> <img src="https://skillicons.dev/icons?i=react" height="45" alt="React" /></p>
 ⚙️ Back-End
-
-<p align="left"> <img src="https://skillicons.dev/icons?i=java" /> <img src="https://skillicons.dev/icons?i=spring" />
+<p align="left"><img src="https://skillicons.dev/icons?i=js" height="45" alt="JavaScript" /> <img src="https://skillicons.dev/icons?i=ts" height="45" alt="TypeScript" /></p>
+<p align="left"> 
 </p>
 💻 Linguagens
 
