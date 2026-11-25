@@ -15,14 +15,14 @@ Desenvolvedor apaixonado por tecnologia, construção de aplicações e aprendiz
 </p>
 💻 Linguagens
 
-<p align="left"> <img src="https://skillicons.dev/icons?i=js" height="45" alt="JavaScript" /> <img src="https://skillicons.dev/icons?i=ts" height="45" alt="TypeScript" />  <img src="https://skillicons.dev/icons?i=nestjs" /></p>
+<p align="left"> <img src="https://skillicons.dev/icons?i=js" height="45" alt="JavaScript" /> <img src="https://skillicons.dev/icons?i=ts" height="45" alt="TypeScript" />  <img src="https://skillicons.dev/icons?i=nestjs" /> <img src="https://skillicons.dev/icons?i=php" alt="PHP"> <img src="https://skillicons.dev/icons?i=java" alt="Java"> <img src="https://skillicons.dev/icons?i=python" alt="Python"> <img src="https://skillicons.dev/icons?i=go" alt="Go"></p>
 
 📱 Mobile
 <p align="left">
 <img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin"></p>
 
 💾 Banco de dados
-<p align="left"><img src="https://skillicons.dev/icons?i=postgres" height="45" alt="PostgreSQL" /><img src="https://skillicons.dev/icons?i=mysql" height="45" alt="MySQL" /><img src="https://skillicons.dev/icons?i=mongodb" height="45" alt="MongoDB" /></p>
+<p align="left"><img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite"> <img src="https://skillicons.dev/icons?i=postgres" height="45" alt="PostgreSQL" /><img src="https://skillicons.dev/icons?i=mysql" height="45" alt="MySQL" /><img src="https://skillicons.dev/icons?i=mongodb" height="45" alt="MongoDB" /></p>
 
 🐧 Sistema operacional
 <p align="left"><img src="https://skillicons.dev/icons?i=linux" height="45" alt="Linux" /></p>
